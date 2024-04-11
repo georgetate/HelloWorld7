@@ -1,6 +1,6 @@
 int main()
 {
-  printf("Hello World from C");
+  printf("Hello World from C \n");
 
 return 0;
 }
