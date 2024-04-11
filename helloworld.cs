@@ -1,10 +1,9 @@
 using System;
-
-namespace HelloWorldinC# {
-  class Geeks {
-    static voic Main(string[] args) {
-      Console.WriteLine("Hello World from C# \n");
-      Console.ReadKey();
-    }
-  }
+namespace HelloWorldApp {
+    class Geeks {
+        static void Main(string[] args) { 
+            Console.WriteLine("Hello World from C#"); 
+        } 
+    } 
 }
+
